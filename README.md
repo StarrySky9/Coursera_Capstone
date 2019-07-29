@@ -11,6 +11,7 @@ Now, start a Jupyter Notebook using any platform that you are comfortable with a
 2. Import the pandas library as pd.
 3. Import the Numpy library as np.
 4. Print the following the statement: Hello Capstone Project Course!
+
 Push the Notebook to your Github repository and submit a link to the notebook on your Github repository.
 
 ## Foursquare API
